@@ -29,7 +29,7 @@ available and secure environment.
 
 ## Presentation materials
 
-- [Demo Video]()
+- [Demo Video](https://youtu.be/Wuo_mb7oq7w)
 
 ### Project Development
 
@@ -51,7 +51,7 @@ In the future we plan to:
 1. Clone the repository:
 
 ```
-$ git clone 
+$ git clone https://github.com/S-JZ/Ecogo-HackSharks.git
 ```
 2. Open the project in your favorite IDE. We recommend using Android Studio, which has built-in support for Flutter development.
 
